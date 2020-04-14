@@ -4,7 +4,7 @@ Created on Wed Mar 25 18:07:43 2020
 
 @author: ROSHAN
 """
-""" Here in this calculator if you will enter any invalid extression then it will show you an error message 
+""" Here in this calculator if you will enter any invalid expression then it will show you an error message 
      ex( number/0  i.e  6/0 it's an error .    """ 
 import tkinter
 from tkinter import *
